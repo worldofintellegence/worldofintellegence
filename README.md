@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ali Hassan 👋
+### Full-Stack & Mobile Engineer | AI/ML & Web3 Integration
 
-<!--
-**worldofintellegence/worldofintellegence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with 6+ years of experience building scalable mobile apps (React Native, iOS/Swift), modern web dashboards (React.js), and robust backends (Node.js, Spring Boot). Founder of **Scan to Move**.
 
-Here are some ideas to get you started:
+- 🔭 Currently building: AI-powered mobile apps (MediaPipe tracking) & Scan to Move
+- 💼 Freelance: Upwork Top-Rated / Available for select consulting
+- 📍 Lahore, Pakistan
+-  📫 Reach me: alisiyal2764@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Languages & Frameworks:**
+React.js, React Native, TypeScript, Node.js (Express), Swift/SwiftUI, Java (Spring Boot), C#, Python
+
+**Data & AI/ML:**
+MediaPipe, Custom Vision/ML Integration, MongoDB, PostgreSQL, MySQL
+
+**Tools & Platforms:**
+Git, Docker, Unity3D, Jira, App Store Connect, Web3 Wallets
